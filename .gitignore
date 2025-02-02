@@ -1,0 +1,6 @@
+**/target
+**/.bloop
+**/.bsp
+**/.metals
+dev.db
+expenses_managment.log
